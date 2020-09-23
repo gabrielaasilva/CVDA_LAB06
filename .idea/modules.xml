@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/CVDA_LAB06.iml" filepath="$PROJECT_DIR$/.idea/CVDA_LAB06.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SampleWebApp/SampleWebApp.iml" filepath="$PROJECT_DIR$/SampleWebApp/SampleWebApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculadora/Calculadora.iml" filepath="$PROJECT_DIR$/Calculadora/Calculadora.iml" />
     </modules>
   </component>
 </project>

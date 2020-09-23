@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="web" url="file://$PROJECT_DIR$/SampleWebApp" />
+    <file type="web" url="file://$PROJECT_DIR$/Calculadora" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/SampleWebApp/pom.xml" />
+        <option value="$PROJECT_DIR$/Calculadora/pom.xml" />
       </list>
     </option>
   </component>
