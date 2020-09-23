@@ -9,78 +9,47 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6030ae3-2682-457c-80d3-9721c36acd56" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Calculadora_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Calculadora_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_faces_jsf_api_2_2_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_primefaces_primefaces_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculadora/Calculadora.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculadora/src/main/java/edu/eci/cvds/calculadora/CalculadoraBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculadora/src/main/webapp/calculadora.xhtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/SampleWebApp_war.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/SampleWebApp_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_faces_jsf_api_2_2_20.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webContexts.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleWebApp/SampleWebApp.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleWebApp/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleWebApp/src/main/java/edu/eci/cvds/servlet/bean/CalculadoraBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleWebApp/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleWebApp/src/main/webapp/calculadora.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleWebApp/src/main/webapp/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleWebApp/target/SampleWebApp-1.0-SNAPSHOT.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleWebApp/target/SampleWebApp-1.0-SNAPSHOT/WEB-INF/classes/edu/eci/cvds/servlet/bean/CalculadoraBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleWebApp/target/SampleWebApp-1.0-SNAPSHOT/WEB-INF/lib/gson-2.8.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleWebApp/target/SampleWebApp-1.0-SNAPSHOT/WEB-INF/lib/jsf-api-2.2.20.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleWebApp/target/SampleWebApp-1.0-SNAPSHOT/WEB-INF/lib/jsf-impl-2.2.20.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleWebApp/target/SampleWebApp-1.0-SNAPSHOT/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleWebApp/target/SampleWebApp-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleWebApp/target/SampleWebApp-1.0-SNAPSHOT/calculadora.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleWebApp/target/SampleWebApp-1.0-SNAPSHOT/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleWebApp/target/SampleWebApp.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleWebApp/target/SampleWebApp/WEB-INF/classes/edu/eci/cvds/servlet/bean/CalculadoraBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleWebApp/target/SampleWebApp/WEB-INF/lib/gson-2.8.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleWebApp/target/SampleWebApp/WEB-INF/lib/jsf-api-2.2.20.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleWebApp/target/SampleWebApp/WEB-INF/lib/jsf-impl-2.2.20.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleWebApp/target/SampleWebApp/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleWebApp/target/SampleWebApp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleWebApp/target/SampleWebApp/calculadora.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleWebApp/target/SampleWebApp/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleWebApp/target/classes/edu/eci/cvds/servlet/bean/CalculadoraBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleWebApp/target/dependency/javaee-endorsed-api-7.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleWebApp/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleWebApp/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleWebApp/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleWebApp/target/tomcat/conf/logging.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleWebApp/target/tomcat/conf/tomcat-users.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleWebApp/target/tomcat/conf/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleWebApp/target/tomcat/logs/access_log.2020-09-22" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleWebApp/target/tomcat/work/Tomcat/localhost/_/SESSIONS.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleWebApp/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/index_jsp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SampleWebApp/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/index_jsp.java" beforeDir="false" />
+    <list default="true" id="14f9a89b-5fc6-4f31-9ab0-64cdcb673e88" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/CVDA_LAB06.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_faces_jsf_impl_2_2_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_javaee_api_8_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_javaee_web_api_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora/Calculadora.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora/src/main/java/edu/eci/cvds/calculadora/CalculadoraBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora/src/main/webapp/calculadora.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora/target/Calculadora.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora/target/Calculadora/WEB-INF/classes/edu/eci/cvds/calculadora/CalculadoraBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora/target/Calculadora/WEB-INF/lib/gson-2.8.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora/target/Calculadora/WEB-INF/lib/jsf-api-2.2.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora/target/Calculadora/WEB-INF/lib/jsf-impl-2.2.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora/target/Calculadora/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora/target/Calculadora/WEB-INF/lib/primefaces-7.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora/target/Calculadora/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora/target/Calculadora/calculadora.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora/target/Calculadora/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora/target/classes/edu/eci/cvds/calculadora/CalculadoraBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora/target/dependency/webapp-runner.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora/target/tomcat/conf/logging.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora/target/tomcat/conf/tomcat-users.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora/target/tomcat/conf/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora/target/tomcat/logs/access_log.2020-09-22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora/target/tomcat/work/Tomcat/localhost/_/SESSIONS.ser" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,11 +62,11 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+        <option name="mavenHome" value="D:\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1ht3mKeVduVZ4YV8omU6mqi8JCI" />
+  <component name="ProjectId" id="1hdjxvMJyql7WBHVD3AvsZKAUQz" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -111,33 +80,33 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e6030ae3-2682-457c-80d3-9721c36acd56" name="Default Changelist" comment="" />
-      <created>1600816724561</created>
+      <changelist id="14f9a89b-5fc6-4f31-9ab0-64cdcb673e88" name="Default Changelist" comment="" />
+      <created>1600348113103</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1600816724561</updated>
-      <workItem from="1600816728849" duration="3166000" />
+      <updated>1600348113103</updated>
+      <workItem from="1600348114314" duration="245000" />
+      <workItem from="1600348404461" duration="1554000" />
+      <workItem from="1600349990298" duration="646000" />
+      <workItem from="1600637028127" duration="360000" />
+      <workItem from="1600637423071" duration="3405000" />
+      <workItem from="1600705833336" duration="3047000" />
+      <workItem from="1600795415779" duration="356000" />
+      <workItem from="1600799432327" duration="995000" />
+      <workItem from="1600810522870" duration="12568000" />
+      <workItem from="1600831833516" duration="6000" />
+      <workItem from="1600831869385" duration="45000" />
+      <workItem from="1600831934488" duration="23000" />
     </task>
     <servers />
   </component>
@@ -154,26 +123,35 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="498" y="0" key="#Project_Structure" timestamp="1600819641323">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1600350104854">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="498" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1600819641323" />
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600819004487">
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1600350104854" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600818999557">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1600819004487" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1600819482510">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1600818999557" />
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1600828913359">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600819482510" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1600819573144">
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600828913359" />
+    <state x="338" y="88" key="Maven.ArtifactSearchDialog" timestamp="1600349122829">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600819573144" />
+    <state x="338" y="88" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1600349122829" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1600828937792">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600828937792" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1600811816636">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1600811816636" />
   </component>
 </project>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3c.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:p="http://primefaces.org/ui"
+      xmlns:f="http://xmlns.sun.com/jsf/core">
+
+      <h:head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Document</title>
+        </h:head>
+
+<h:body>
+    <h:form id="calculadora_form" header=" calculadora">
+        <h:panelGrid columns="2">
+            <p:inputText id="values" binding="#{input}" />
+            <p:outputLabel class="text"  value="Media: "/>
+            <p:outputLabel class="answer" value="#{calculator.media}"/>
+            <p:outputLabel class="text" value="Desviación Estandar: "/>
+            <p:outputLabel class="answer" value="#{calculator.dvarianza}"/>
+            <p:outputLabel class="text" value="Varianza: "/>
+            <p:outputLabel class="answer" value="#{calculator.varianza}"/>
+            <p:outputLabel class="text" value="Moda: "/>
+            <p:outputLabel class="answer" value="#{calculator.moda}"/>
+
+        </h:panelGrid>
+    </h:form>
+    <p:commandButton value="CALCULATE" update="calculadora_form" actionListener="#{calculator.calculate(input.value)}"/>
+    <p:commandButton value="RESTART" update="calculadora_form" actionListener="#{calculator.restart}"/>
+</h:body>
+        </html>
