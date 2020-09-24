@@ -8,16 +8,19 @@ body{
 h1 {
   color: white;
   text-align: center;
+  font-size: 4em;
 }
 
 .text{
-    color: aquamarine;
+    color: indigo;
+	text-align: center;
     font-family: Consolas;
     font-size: 2em;
 }
 
 .answer{
     color: red;
+	text-align: center;
     font-family: Consolas;
     font-size: 2em;
 }
