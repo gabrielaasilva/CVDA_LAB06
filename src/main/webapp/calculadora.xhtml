@@ -15,6 +15,7 @@
 	<h1> Calculadora </h1>
     <h:form id="calculadora_form" header=" calculadora">
         <h:panelGrid columns="2">
+			<p:outputLabel class="text"  value="Ingrese los valores: "/>
             <p:inputText id="values" binding="#{input}" />
             <p:outputLabel class="text"  value="Media: "/>
             <p:outputLabel class="answer" value="#{calculator.media}"/>
