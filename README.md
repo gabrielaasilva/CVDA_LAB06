@@ -9,5 +9,5 @@
 - Ana Gabriela Silva 
 
 
-La aplicación desplegada en Heroku se encuentra [Heroku](https://cvdslab06.herokuapp.com/calculadora.xhtml).
+La aplicación desplegada en Heroku se encuentra [Aquí](https://cvdslab06.herokuapp.com/calculadora.xhtml).
 
